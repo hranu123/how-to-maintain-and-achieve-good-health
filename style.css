@@ -116,7 +116,11 @@
      background: #ccc;
       display:flex; 
       align-items:center;
-       justify-content:center; border-radius:6px; }
+       justify-content:center; 
+       border-radius:6px; 
+       
+
+}
 
 .conclusion {
     grid-column: 1 / 9;

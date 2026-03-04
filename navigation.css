@@ -44,7 +44,7 @@ body {
     height: 130px;
     object-fit: cover;
     display: block;
-    justify-content: right;
+    justify-content: right
 
 }
 
@@ -53,6 +53,8 @@ body {
     width: 300px ;
     height: 130px; 
     object-fit: cover;
+    display:block;
+    justify-content: left;
 
 
 }
