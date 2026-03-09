@@ -1,8 +1,8 @@
 .container {
     display: grid;
     grid-template-columns: repeat(8, 1fr);
-    grid-template-rows: repeat(11, minmax(80px, auto));
-    gap: 20px;
+    grid-template-rows: repeat(11,  minmax(80px, auto));
+    gap: 10px;
     width: 90%;
     margin: 0 auto;
 }
@@ -14,7 +14,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 20px;
+    padding: 10px 0px;
 }
 
 .logo-left, .logo-right {
