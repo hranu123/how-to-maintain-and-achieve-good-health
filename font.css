@@ -13,7 +13,7 @@ header{
 header:hover {
     background-color: #e7b882;
     transform: scale(1.05);    
-    cursor: pointer;     
+    cursor: pointer;    
 }
 body {
     background-color: #354b7c;
@@ -54,19 +54,21 @@ body {
     border-top: solid 4.5px #F27546;
     transition: all 0.3s ease;
 }
-.box1:hover, 
-.box2:hover, 
-.box3:hover, 
-.box4:hover, 
+.box1:hover,
+.box2:hover,
+.box3:hover,
+.box4:hover,
 .box5:hover{
  background-color: #d8b58f;    
     transform: translateY(-5px);    
-    cursor: pointer;   
+    cursor: pointer;  
+
 
 }
 
+
 .image1 {
-    width: 600px;
+    width: 700px;
     height: 700px;
     overflow: hidden;
 }
@@ -77,7 +79,7 @@ object-fit:cover;
 display:block;
 }
 .image2 {
-    width: 425px;
+    width: 525px;
     height: 550px;
     overflow: hidden;
 }
@@ -105,3 +107,6 @@ footer:hover {
 .conclusion p {
     font-size: 25px;
 }
+
+
+
