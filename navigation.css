@@ -77,3 +77,13 @@ body {
     border-right:solid 5px rgb(65, 158, 77);
 
 }
+ul.navbar li a:hover:not(.active) {background-color: #111;}
+
+ul.navbar li a.active {background-color: #04AA6D;}
+
+ul.navbar li.right {float: right;}
+
+@media screen and (max-width: 600px) {
+  ul.navbar li.right, 
+  ul.navbar li {float: none;}
+}
