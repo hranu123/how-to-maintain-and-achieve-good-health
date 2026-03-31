@@ -55,17 +55,13 @@ body {
     height: 140px;
     object-fit: cover;
     display: block;
-   
- 
-
-
 }
 
 
 
 
 .logo-right .image-side1 img {
-    width: 300px ;
+    width: 200px ;
     height: 150px;
     object-fit: cover;
     display:block;
