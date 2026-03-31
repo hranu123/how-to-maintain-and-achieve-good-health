@@ -21,9 +21,6 @@
 }
 
 
-.logo-left, .logo-right {
-    width: 80px;
-}
 
 
 .nav-center {
@@ -74,7 +71,6 @@
      grid-row: 6 / 7;
       text-align: center;
       background: linear-gradient( 135deg,  #e0b79d 0%, #f2d3b0 100%, #e0b79d 100% );
-    
     }
 
 
